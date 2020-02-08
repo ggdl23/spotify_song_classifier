@@ -11,3 +11,5 @@ This script is used to request the song genre from Spotify's endpoint. You will 
 2. genre_classifier.ipynb
 This notebook documents the process of feature selection, unsupervised clustering via K-means clustering, and supervised K-Nearest neighbors classification. Accuracy without hyperparameter optimization was 80%
 
+# Dataset
+The dataset used in this analysis is Spotify Song Attributes by George McIntire at https://www.kaggle.com/geomack/spotifyclassification.
