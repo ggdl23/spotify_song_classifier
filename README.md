@@ -1,5 +1,6 @@
 # Spotify Song Classifier
 Written on Oct 2019
+This is like 3 weeks into learning python
 
 # Aim
 Our aim was to use features provided by Spotify for each of their songs to predict the genre of a song. Since this is done merely as proof of concept, we narrowed down the number of genres we attemped to predict to 4: 'hip hop', 'classical', 'metal' and 'country. 
